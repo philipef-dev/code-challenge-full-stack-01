@@ -1,0 +1,6 @@
+@api_assino_HostAddress = http://localhost:5098
+
+GET {{api_assino_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,67 @@
+/home/rick/Documents/www/code-challange-assino/api-assino/bin/Debug/net8.0/appsettings.Development.json
+/home/rick/Documents/www/code-challange-assino/api-assino/bin/Debug/net8.0/appsettings.json
+/home/rick/Documents/www/code-challange-assino/api-assino/bin/Debug/net8.0/api-assino
+/home/rick/Documents/www/code-challange-assino/api-assino/bin/Debug/net8.0/api-assino.deps.json
+/home/rick/Documents/www/code-challange-assino/api-assino/bin/Debug/net8.0/api-assino.runtimeconfig.json
+/home/rick/Documents/www/code-challange-assino/api-assino/bin/Debug/net8.0/api-assino.dll
+/home/rick/Documents/www/code-challange-assino/api-assino/bin/Debug/net8.0/api-assino.pdb
+/home/rick/Documents/www/code-challange-assino/api-assino/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/rick/Documents/www/code-challange-assino/api-assino/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/rick/Documents/www/code-challange-assino/api-assino/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/rick/Documents/www/code-challange-assino/api-assino/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/rick/Documents/www/code-challange-assino/api-assino/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/api-assino.csproj.AssemblyReference.cache
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/api-assino.GeneratedMSBuildEditorConfig.editorconfig
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/api-assino.AssemblyInfoInputs.cache
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/api-assino.AssemblyInfo.cs
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/api-assino.csproj.CoreCompileInputs.cache
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/api-assino.MvcApplicationPartsAssemblyInfo.cs
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/api-assino.MvcApplicationPartsAssemblyInfo.cache
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/staticwebassets.build.json
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/staticwebassets.development.json
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/staticwebassets/msbuild.api-assino.Microsoft.AspNetCore.StaticWebAssets.props
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/staticwebassets/msbuild.build.api-assino.props
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.api-assino.props
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.api-assino.props
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/staticwebassets.pack.json
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/scopedcss/bundle/api-assino.styles.css
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/api-assino.csproj.CopyComplete
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/api-assino.dll
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/refint/api-assino.dll
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/api-assino.pdb
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/api-assino.genruntimeconfig.cache
+/home/rick/Documents/www/code-challange-assino/api-assino/obj/Debug/net8.0/ref/api-assino.dll
+/home/rick/Documents/www/Challange React/assino/back-end-assino/bin/Debug/net8.0/appsettings.Development.json
+/home/rick/Documents/www/Challange React/assino/back-end-assino/bin/Debug/net8.0/appsettings.json
+/home/rick/Documents/www/Challange React/assino/back-end-assino/bin/Debug/net8.0/api-assino
+/home/rick/Documents/www/Challange React/assino/back-end-assino/bin/Debug/net8.0/api-assino.deps.json
+/home/rick/Documents/www/Challange React/assino/back-end-assino/bin/Debug/net8.0/api-assino.runtimeconfig.json
+/home/rick/Documents/www/Challange React/assino/back-end-assino/bin/Debug/net8.0/api-assino.dll
+/home/rick/Documents/www/Challange React/assino/back-end-assino/bin/Debug/net8.0/api-assino.pdb
+/home/rick/Documents/www/Challange React/assino/back-end-assino/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/rick/Documents/www/Challange React/assino/back-end-assino/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/rick/Documents/www/Challange React/assino/back-end-assino/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/rick/Documents/www/Challange React/assino/back-end-assino/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/rick/Documents/www/Challange React/assino/back-end-assino/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/api-assino.csproj.AssemblyReference.cache
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/api-assino.GeneratedMSBuildEditorConfig.editorconfig
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/api-assino.AssemblyInfoInputs.cache
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/api-assino.AssemblyInfo.cs
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/api-assino.csproj.CoreCompileInputs.cache
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/api-assino.MvcApplicationPartsAssemblyInfo.cs
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/api-assino.MvcApplicationPartsAssemblyInfo.cache
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/api-assino.sourcelink.json
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/staticwebassets.build.json
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/staticwebassets.development.json
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/staticwebassets/msbuild.api-assino.Microsoft.AspNetCore.StaticWebAssets.props
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/staticwebassets/msbuild.build.api-assino.props
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.api-assino.props
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.api-assino.props
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/staticwebassets.pack.json
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/scopedcss/bundle/api-assino.styles.css
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/api-assino.csproj.CopyComplete
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/api-assino.dll
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/refint/api-assino.dll
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/api-assino.pdb
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/api-assino.genruntimeconfig.cache
+/home/rick/Documents/www/Challange React/assino/back-end-assino/obj/Debug/net8.0/ref/api-assino.dll
