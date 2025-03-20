@@ -1,6 +1,5 @@
 # CODE-CHALLENGE-FULL-STACK
 
-- Cenário
 
 Uma startup está com uma proposta de lançamento de uma ferramenta de controle de tarefas. Este
 controle de tarefas precisa ter seu cadastrado de forma simples e intuitivo.
